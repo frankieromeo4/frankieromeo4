@@ -5,7 +5,7 @@
 - <b>Active Directory Home Lab (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Malware Analysis Lab  (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/frankieromeo4/Malware-Analysis-Lab/tree/main) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/frankieromeo4/Malware-Analysis-Lab) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
