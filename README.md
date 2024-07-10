@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Analyzing DNS log files using Splunk Home Lab (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/frankieromeo4/Analyzing-DNS-Log-Files-Using-Splunk-SIEM)
+- <b>Analyzing DNS log files using Splunk Home Lab </b>
+  - [Analyzing DNS log files](https://github.com/frankieromeo4/Analyzing-DNS-Log-Files-Using-Splunk-SIEM)
 - <b>Malware Analysis Lab  </b>
   - (https://github.com/frankieromeo4/Malware-Analysis-Lab) <b><i></b></i>
 - <b>Python</b>
