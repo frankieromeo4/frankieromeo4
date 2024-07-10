@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Analyzing DNS log files using Splunk Home Lab (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/frankieromeo4/Analyzing-DNS-Log-Files-Using-Splunk-SIEM)
 - <b>Malware Analysis Lab  </b>
   - (https://github.com/frankieromeo4/Malware-Analysis-Lab) <b><i></b></i>
 - <b>Python</b>
