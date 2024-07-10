@@ -6,8 +6,7 @@
   - [Analyzing DNS log files](https://github.com/frankieromeo4/Analyzing-DNS-Log-Files-Using-Splunk-SIEM)
 - <b>Malware Analysis Lab  </b>
   - [Malware Analysis](https://github.com/frankieromeo4/Malware-Analysis-Lab) <b><i></b></i>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 
 
