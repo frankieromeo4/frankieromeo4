@@ -6,7 +6,7 @@
   - [Analyzing DNS log files](https://github.com/frankieromeo4/Analyzing-DNS-Log-Files-Using-Splunk-SIEM)
 - <b>Malware Analysis Lab  </b>
   - [Malware Analysis](https://github.com/frankieromeo4/Malware-Analysis-Lab) <b><i></b></i>
-  <b>Soc enviorment  </b>
+-  <b>Soc enviorment  </b>
   - [Soc enviorment](https://github.com/frankieromeo4/SOC-environment) <b><i></b></i>
 
 
