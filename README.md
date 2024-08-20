@@ -9,7 +9,7 @@
 -  <b>Soc enviorment </b>
   - [Soc enviorment Project](https://github.com/frankieromeo4/SOC-environment) <b><i></b></i>
   - <b>HTBLogjammer using Splunk </b>
-  - [HTBLogjammer](https://github.com/frankieromeo4/HTBLogjammer)
+  -  [HTBLogjammer](https://github.com/frankieromeo4/HTBLogjammer)
 
 
 
