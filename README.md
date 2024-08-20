@@ -6,10 +6,10 @@
   - [Analyzing DNS log files](https://github.com/frankieromeo4/Analyzing-DNS-Log-Files-Using-Splunk-SIEM)
 - <b>Malware Analysis Lab  </b>
   - [Malware Analysis](https://github.com/frankieromeo4/Malware-Analysis-Lab) <b>
--  <b>Soc enviorment </b>
+-  <b> Soc enviorment </b>
   - [Soc enviorment Project](https://github.com/frankieromeo4/SOC-environment) <b>
   - <b>HTBLogjammer using Splunk </b>
-  -  [HTBLogjammer](https://github.com/frankieromeo4/HTBLogjammer) <b>
+  - [HTBLogjammer](https://github.com/frankieromeo4/HTBLogjammer) <b>
 
 
 
